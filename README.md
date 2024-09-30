@@ -4,9 +4,9 @@
 <h1 align="center">Hi 👋, I'm Marjan</h1>
 
 # 💫 About Me:
-⚡ ... <br>
+⚡ I am a PhD student at University of Connecticut and my research is mainly Computational Biology. My other research interests are Machine Learning, Bioinformatics and Algorithms, Combinatorics and Bayesian statistics. <br>
 📧 marjan.hosseini@uconn.edu <br>
-🐈 Fun fact, people say I look like a white bunny! (◕‿◕)
+<!-- 🐈 Fun fact, people say I look like a white bunny! (◕‿◕) -->
 
 
 ### 🌐 Socials:
